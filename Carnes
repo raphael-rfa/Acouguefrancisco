@@ -1,0 +1,81 @@
+<html>
+    <head>
+        <title>Açougue francisco - Carne saborosa e de confiança </title>
+        <!-- SEO-->
+        <meta name="descripition" content="Açougue francisco carnes altamente selecionadas e preparadas com profissionalismo"/>
+        <!-- SMO-->
+        <meta property="og:title" content="Açougue francisco - As melhores carnes">
+        <meta property="og:site_name" content="Açougue francisco">
+        <meta property="og:descripition" content="Açougue francisco - carnes de qualidade, Carnes de primeira, comprando com segurança o corte que desejar. ">
+        <meta property="og:url" content="https://ficiticio.açouguefrancisco.com">
+        <meta property="og:image" content="imagens/francisco.png">
+        <meta property="og:image:type" content="image/png">
+    </head>
+
+    <body>
+        <header>
+            <div>
+                <h2>Carnes</h2>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href=""></a>Ofertas</li>
+                    <li><a href=""></a>contato</li>
+                </ul>
+            </nav>
+        </header>
+        <section>
+            <div>
+                <h1>Carnes bovinas</h1>
+                <h2>Pescoço</h2>
+                <p>A carne de pescoço é um corte bovino constituído de massas ou fibras musculares, de tecido conjuntivo e de gordura. É considerada uma carne de terceira. O tempo de cozimento da carne de pescoço é demorado.</p>
+                <h2>Acém</h2>
+                <p>O  acém é considerado uma carne de segunda, relativamente magra. Na culinária, é usada em refogados, assados e cozidos. Também é utilizada moída e em bifes.</p>
+                <h2>Peito</h2>
+                <p>A carne de peito exige muito tempo para ser cozida, por ter uma grande quantidade de fibras e músculos. É considerada uma carne de segunda.</p>
+                <h2>Paleta ou miolo de paleta</h2>
+                <p></p>
+                <h2>Fraldinha</h2>
+                <p></p>
+                <h2>Ponta de agulha</h2>
+                <p></p>
+                <h2>Filé mignon</h2>
+                <p></p>
+                <h2>Filé de Costela</h2>
+                <p></p>
+                <h2> Contra filé</h2>
+                <p></p>
+                <h2>Capa de filé</h2>
+                <p></p>                
+                <h2>Alcatra</h2>
+                <p></p>
+                <h2>Patinho</h2>
+                <p></p>
+                <h2>Coxão duro</h2>
+                <p></p>
+                <h2>Coxão mole</h2>
+                <p></p>
+                <h2>Lagarto</h2>
+                <p></p>
+                <h2>Músculo dianteiro</h2>
+                <p></p>
+                <h2>Músculo traseiro</h2>
+                <p></p>
+                <h2>Aba do filé</h2>
+                <p></p>
+                <h2>Maminha da alcatra</h2>
+                <p></p>
+                <h2>Picanha</h2>
+                <p></p>                
+                <h2>Cupim</h2>
+                <p></p>
+
+            </div>
+        </section>
+
+        <footer>
+            <p> Todos os direitos reservdos !</p>
+        </footer>
+    </body>
+
+</html>
